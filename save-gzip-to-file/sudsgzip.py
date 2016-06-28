@@ -5,7 +5,7 @@ if found outputs gzip to file and removes
 response data that will break SUDS response parse.
 '''
 
-__author__ = 'Adam Sims: mradamsims@gmail.com'
+__author__ = 'Adam Sims: mradamsims at gmail dot com'
 __doc__ = "Filters and saves gzip files"
 
 import zlib
